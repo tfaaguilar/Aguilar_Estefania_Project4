@@ -30,8 +30,8 @@ body, p, h1, h2, h3, h4, h5 {
 }
 
 .box {
-   background-color: rgb(224, 190, 252);
-   color: rgb(27, 27, 27);
+   background-color: rgb(130, 110, 146);
+   color: rgb(252, 250, 250);
    border-radius: 5px;
    padding: 20px;
    text-align: center;
