@@ -4,3 +4,42 @@
     }
     
 }
+
+#main-header {
+    position: sticky;
+}
+
+
+#main-logo {
+    height: 100px;
+}
+
+
+#hero-con {
+    height: 400px;
+}
+
+#products-con {
+    height: 400px;
+}
+
+#products-con2 {
+    height: 400px;
+}
+
+#products-con3 {
+    height: 400px;
+}
+
+#promotional-con {
+    height: 400px;
+}
+
+#promotional-con2 {
+    height: 400px;
+}
+
+#promotional-con3 {
+    height: 400px;
+}
+
